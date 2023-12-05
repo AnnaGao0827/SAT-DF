@@ -75,7 +75,7 @@ python test.py --test_batchSize 32 --resolution 256 --pretrained 'the weight of 
 
 ### **Robustness to Perturbed Images**
 
-![deeperforensics](./image/perturbation experiment.png)
+![deeperforensics](./image/perturbation.jpg)
 
 More details about these experiments can be found in Section 4 of our paper. 
 
