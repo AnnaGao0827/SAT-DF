@@ -1,0 +1,12 @@
+numpy~=1.19.5
+opencv-python~=4.5.1.48
+dlib~=19.22.1
+pillow~=6.0.0
+torch~=1.10.0+cu113
+torchvision~=0.11.0+cu113
+argparse~=1.4.0
+tqdm~=4.64.1
+dataset~=1.5.2
+sklearn~=0.0.post1
+scikit-learn~=0.24.2
+
