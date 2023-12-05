@@ -4,7 +4,7 @@
 
 This is the source code for *Self-Supervised Adversarial Training for Robust Face Forgery Detection.* Our work has been accepted by BMVC 2023. This is the pipeline of our method. 
 
-![pipeline](.\image\pipeline.jpg)
+![pipeline](./image/pipeline.jpg)
 
 Quickly get: [[Paper Link](https://papers.bmvc2023.org/0718.pdf)] [[Home Page](https://proceedings.bmvc2023.org/718/)]
 
@@ -75,7 +75,7 @@ python test.py --test_batchSize 32 --resolution 256 --pretrained 'the weight of 
 
 ### **Robustness to Perturbed Images**
 
-![deeperforensics](.\image\perturbation experiment.png)
+![deeperforensics](./image/perturbation experiment.png)
 
 More details about these experiments can be found in Section 4 of our paper. 
 
